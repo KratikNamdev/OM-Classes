@@ -73,6 +73,16 @@ const teachers = [
     alt: "Dipendra Bhadoriya - Informatics Practices Faculty",
     featured: false,
   },
+{  id: 6,
+    name: "Shreya Malviya",
+    designation: "Subject Faculty",
+    degree: "B.Sc ",
+    specialization: "Chemistry",
+    subjects: ["Chemistry"],
+    experience: "",
+    image: "/assets/home/t5.jpeg",
+    alt: "OM Coaching Classes teacher",
+    featured: false,}
 ];
 
 export default function TeachersSection() {

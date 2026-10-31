@@ -80,7 +80,18 @@ const teachers = [
     alt: "OM Coaching Classes teacher",
     featured: false,
   },
-  
+    {
+    id: 6,
+    name: "Shreya Malviya",
+    designation: "Subject Faculty",
+    degree: "B.Sc ",
+    specialization: "Chemistry",
+    subjects: ["Chemistry"],
+    experience: "",
+    image: "/assets/home/t5.jpeg",
+    alt: "OM Coaching Classes teacher",
+    featured: false,
+  },
 ];
 
 const whatsappLink =
